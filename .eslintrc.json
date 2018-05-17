@@ -31,6 +31,7 @@
         "react/jsx-indent":"off",
         "indent":"off",
         "import/no-extraneous-dependencies":"off",
-        "react/prop-types":"warn"
+        "react/prop-types":"warn",
+        "jsx-a11y/anchor-is-valid":"warn"
     }
 }

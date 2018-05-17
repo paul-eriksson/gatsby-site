@@ -8,8 +8,10 @@
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-postcss-sass": "^1.0.20",
     "gatsby-plugin-react-helmet": "^2.0.10",
+    "prop-types": "^15.6.1",
     "react-helmet": "^5.2.0",
-    "prop-types": "^15.6.1"
+    "react-icons": "^2.2.7",
+    "webfontloader": "^1.6.28"
   },
   "keywords": [
     "gatsby"
