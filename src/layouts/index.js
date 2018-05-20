@@ -39,13 +39,13 @@ const Layout = ({ children, data }) => (
       <Link to="/contact/"><IconText text="Contact" icon={<FaPencil size={27} />} /></Link>
     </Navbar>
     <div
+      className="app__container"
       style={{
         margin: '0 auto',
         maxWidth: 960,
         padding: '0px 1.0875rem 1.45rem',
         paddingTop: 0,
         backgroundColor: '#323438',
-        height: '100vh',
         color: 'white',
       }}
     >
